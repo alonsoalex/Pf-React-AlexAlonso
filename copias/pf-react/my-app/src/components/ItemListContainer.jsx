@@ -39,7 +39,7 @@ const {idCategory} = useParams();
    [idCategory])
   
   return (
-    
+
    <ItemList products={products}/>
 
   )
